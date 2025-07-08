@@ -45,7 +45,7 @@ Built churn prediction using:
 
 ---
 
-## ✨ Author
+##  Author
 
 Swedha
 
